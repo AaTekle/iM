@@ -23,7 +23,3 @@ This repository contains a simple Python application for image processing and ma
 
 - Choose a sample image or provide your own.
 - You can experiment with various image processing operations by tweaking the code in the python script `im.py`.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
