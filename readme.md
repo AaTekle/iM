@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a simple Python application for image processing and manipulation using NumPy, SciPy, and Matplotlib. This application allows you to apply various image processing techniques to a sample image.
+ Python script for image processing and manipulation using NumPy, SciPy, and Matplotlib. Allows you to apply various image processing techniques on a sample image.
 
 ## Features
 
@@ -22,4 +22,4 @@ This repository contains a simple Python application for image processing and ma
 ## Usage
 
 - Choose a sample image or provide your own.
-- You can experiment with various image processing operations by tweaking the code in the python script `im.py`.
+- You can experiment with various image processing operations by tweaking the code - `im.py`.
